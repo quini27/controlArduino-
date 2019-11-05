@@ -1,0 +1,13 @@
+pin 1	  
+pin 2	  
+pin 3	  
+pin 4	  
+pin 5	  
+pin 6	  
+pin 7	  
+pin 8	  
+pin 9	  
+pin 10	  
+pin 11	  
+pin 12	  
+pin 13	  

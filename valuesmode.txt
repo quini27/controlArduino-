@@ -1,0 +1,13 @@
+Rx
+Tx
+dig. input
+dig. input
+dig. ouput
+dig. ouput
+PWM output
+PWM output
+PWM output
+dig. input
+dig. input
+dig. output
+dig. output

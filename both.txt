@@ -1,0 +1,13 @@
+pin 1=Rx
+pin 2=Tx
+pin 3=dig. input
+pin 4=dig. input
+pin 5=dig. ouput
+pin 6=dig. ouput
+pin 7=PWM output
+pin 8=PWM output
+pin 9=PWM output
+pin 10=dig. input
+pin 11=dig. input
+pin 12=dig. output
+pin 13=dig. output
