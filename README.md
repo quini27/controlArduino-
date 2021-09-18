@@ -18,3 +18,4 @@ A memolog windows reports the received string and the state of the connection.
 
 Following the phlosophy of this program, it is easy to implement a control strategy in the computer to control a plant, using the Arduino board as a simple input/output interface.
 
+![IHM](https://user-images.githubusercontent.com/37451727/133894327-6c69ed84-3829-44f9-835f-2cb3fdb9d5f3.jpg)
